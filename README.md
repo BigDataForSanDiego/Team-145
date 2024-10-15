@@ -1,16 +1,18 @@
 ### 2024 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: `145`  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `PsycheTrack`    
   
 #### Your team’s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### `PsycheTrack harnesses cutting-edge machine learning and big data analytics to train models that detect early signs of mental disorders, delivering fast, accurate insights to revolutionize mental health interventions and empower proactive care. Our training pipeline combines the power of deep learning, natural language processing, and multimodal data to turn complex mental health patterns into actionable outcomes. With PsycheTrack, we’re not just analyzing data — we’re training AI to improve lives, one early detection at a time!`
 
 
 #### A visual
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
 <img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
+<img src="https://static.vecteezy.com/system/resources/previews/006/792/345/non_2x/mental-health-blooming-human-brain-line-icon-mind-concept-love-life-new-page-illustration-free-vector.jpg" 
+     alt="Mental Health Illustration" width="50%" height="10%" title="Brain Fog">
 
 <!--
 #### Theme: Enhancing Healthcare’s Digital Front Door
@@ -26,7 +28,7 @@
 > As a potential new customer, how can we leverage the mobile app to help new patients better understand what services are available to them?
 - [ ] Managing my health
 > It’s easy to get overwhelmed by all the tasks patients often have to do to maintain their health, how can we make managing health more enjoyable?
-- [ ] Addressing mental health challenges
+- [*] Addressing mental health challenges
 > Mental health challenges may be difficult to identify and have a broad impact on health, how can we help clinicians be more in tune with patients mental health needs?
 
 #### Optional Questions. `TEAMS CAN SELECT ONE ADDITIONAL OPTIONAL QUESTION (insert X in [ ])`
@@ -40,7 +42,7 @@
 > How can we leverage big (geospatial) data analytics and AI to improve access to resources that mitigate the impact of environmental factors, i.e. pollution, on health disparities?
 
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: `Sarthak Kar Github: sarthakkar99`
 
-#### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
+#### Team Members `Julian Ornelas Github: jrornelas11, Nanda Arun Payyappilly Github: nandapayyappilly`
 
